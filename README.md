@@ -8,6 +8,7 @@ This will be updated when new fixes are found! if something breaks, scroll to th
 
 Requirements
 ———————————————————
+
 ALVR on both the mxs pc, and your quest
 Access to your router settings
 Decently fast internet (100+ is reccomended for a good experience, but lower should still work)
