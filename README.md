@@ -7,6 +7,7 @@ To download ALVR, follow the linux tar.gz tutorial at:  https://github.com/alvr-
 This will be updated when new fixes are found! if something breaks, scroll to the bottom, see if i updated this. if not, ping me in the maximumsettings server (@fatevr/enmity • VR) and I will try to find a fix!
 
 Requirements
+
 ———————————————————
 
 ALVR on both the mxs pc, and your quest
