@@ -6,6 +6,8 @@ To download ALVR, follow the linux tar.gz tutorial at:  https://github.com/alvr-
 
 This will be updated when new fixes are found! if something breaks, scroll to the bottom, see if i updated this. if not, ping me in the maximumsettings server (@fatevr/enmity • VR) and I will try to find a fix!
 
+Lastly, this should work on all tiers, but only tier 4 has been tested so far.
+
 Requirements
 
 ———————————————————
