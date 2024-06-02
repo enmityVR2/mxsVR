@@ -1,4 +1,5 @@
 READ THIS!!!
+
 This isnt a tutorial to fully setup alvr. This is a tutorial for it to work on mxs. 
 Along with this, make sure your headset is here: https://github.com/alvr-org/ALVR. this should work on all of those listed on the github. but this has only been tested on a quest 2 and quest 3.
 
