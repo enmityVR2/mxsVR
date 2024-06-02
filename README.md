@@ -15,7 +15,9 @@ Access to your router settings
 Decently fast internet (100+ is reccomended for a good experience, but lower should still work)
 
 Setup (router)
+
 ———————————————————
+
 Open ALVR on your headset. You should see XXXX.client, and an IP address. You will need both of these
 
 Now go to your routers settings (normally you can go there, by putting 192.168.1.1 in your browser, but this may be different for you!)
@@ -26,10 +28,14 @@ Add your headset to it. Look for the IP that showed up in ALVR, that is your hea
 
 Specify the ports 9943 to 9944 for both UDP and TCP, and save it.
 
+
 ————————————————————
 
+
 Setup (ALVR)
+
 ————————————————————
+
 Open alvr on mxs, and setup as normal.
 
 Now select "add client manually" and enter the XXXX.client that shows in your headset.
@@ -38,23 +44,33 @@ Now tap "Add New" and enter your IP (NOT THE ONE THAT IS IN YOUR HEADSET!!!) To 
 
 —————————————————————
 
+
 Setup (SteamVR)
+
 —————————————————————
+
 Now you can login to steam, and get SteamVR.
 
 Install it, and set the launch options to "~/.steam/debian-installation/steamapps/common/SteamVR/bin/vrmonitor.sh %command" (without the ")
 
 Go back to ALVR and launch steamvr from the "Launch SteamVR" button.
 
+
 ——————————————————————
 
+
 Finished!
+
 ——————————————————————
+
 Now you can play! enjoy!!! if you have some issues, read below to see if i have already found a fix. if not, ping me on Discord! (@fatevr/enmity • VR)
 ——————————————————————
 
+
 Workarounds/Fixes/Bugs
+
 ——————————————————————
+
 Audio not in headset: Download pulseaudio, find the game you want, and change the audio source to the one at the top.
 
 Hearing myself/Mic not working correctly: there are lots of versions of this bug, thus making this harder to explain, you will need pulseaudio aswell.
