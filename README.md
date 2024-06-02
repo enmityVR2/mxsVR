@@ -27,7 +27,7 @@ Setup (router)
 
 Open ALVR on your headset. You should see XXXX.client, and an IP address. You will need both of these
 
-Now go to your routers settings (normally you can go there, by putting 192.168.1.1 in your browser, but this may be different for you!)
+Now go to your routers settings (normally you can get there, by going to 192.168.1.1 in your browser, but this may be different for you!)
 
 Look for port forwarding, and go to it.
 
