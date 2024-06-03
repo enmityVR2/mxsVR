@@ -59,7 +59,7 @@ Setup (SteamVR)
 
 Now you can login to steam, and get SteamVR.
 
-Install it, and set the launch options to "~/.steam/debian-installation/steamapps/common/SteamVR/bin/vrmonitor.sh %command" (without the ")
+Install it, and set the launch options to "~/.steam/debian-installation/steamapps/common/SteamVR/bin/vrmonitor.sh %command%" (without the ")
 
 Go back to ALVR and launch steamvr from the "Launch SteamVR" button.
 
