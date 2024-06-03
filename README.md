@@ -110,6 +110,9 @@ Issue not here? Check https://github.com/alvr-org/ALVR/wiki/Troubleshooting!
 
 
 
+
+
 Update 1: Added tailscale tutorial
+
 
 Read above to find your issue. if its not listed anywhere, please ping me on Discord (@fatevr/enmity • VR)
