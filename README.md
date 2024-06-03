@@ -15,7 +15,7 @@ Requirements
 
 ALVR on both the mxs pc, and your quest
 
-Access to your router settings
+Access to your router settings (for the first tutorial. if you dont have this, follow the second instead!)
 
 Decently fast internet (100+ mbps is recommended for a good experience, but lower should still work)
 
@@ -74,8 +74,26 @@ Finished!
 Now you can play! enjoy!!! if you have some issues, read below to see if i have already found a fix. if not, ping me on Discord! (@fatevr/enmity • VR)
 ——————————————————————
 
+Tailscale
 
+———————————————————————
+
+Install tailscale on mxs and for your quest (https://www.apkmirror.com/apk/tailscale-inc/tailscale/tailscale-1-66-4-te64efe4f7-g1f98f09b846-dirty-release/tailscale-1-66-4-te64efe4f7-g1f98f09b846-dirty-2-android-apk-download/download/?key=6be849ec6e0106940720558a0e5481f04070da58&forcebaseapk=true)
+
+Once installed, create an account, and connect to the vpn
+
+you should see two devices on the tailscale app on your headset.
+
+find oculus-quest.
+
+open alvr, add device manually, insert the XXXX.client, tap "add new" and put in the oculus-quest ip from tailscale.
 Workarounds/Fixes/Bugs
+
+Done! have fun!!!
+
+—————————————————————
+
+Bugs and fixes!
 
 ——————————————————————
 
